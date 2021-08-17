@@ -36,7 +36,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "axios": "^0.19",
+        "axios": "^0.21",
         "laravel-echo": "^1.6.1",
         "pusher-js": "^5.0.3",
         "vue-router": "^3.1.3",
