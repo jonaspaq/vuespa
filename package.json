@@ -32,7 +32,7 @@
         "sass-lint": "^1.13.1",
         "sass-lint-auto-fix": "^0.21.0",
         "sass-loader": "^7.1.0",
-        "vue": "^2.5.17",
+        "vue": "^3.0.0",
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
